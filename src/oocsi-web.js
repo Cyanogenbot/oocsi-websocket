@@ -307,11 +307,3 @@ var OOCSI = (function() {
     };
 
 })();
-
-var heyOOCSI = (function() {
-
-    return {
-
-
-    }
-});
